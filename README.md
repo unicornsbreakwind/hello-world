@@ -1,2 +1,3 @@
 # hello-world
 My intro to, well, the world.......
+I can code in Delphi. It isn't a famous language, but it get's the job done. I'm really looking forward to learning how to code better and to helping code some apps.
